@@ -1,0 +1,20 @@
+{
+  "name": "diff-match-patch",
+  "version": "1.0.0-internal",
+  "description": "Copy of dmsnell/diff-match-patch for use with npm",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovelAI/diff-match-patch.git"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/NovelAI/diff-match-patch#readme",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "testit": "^3.1.0"
+  }
+}
